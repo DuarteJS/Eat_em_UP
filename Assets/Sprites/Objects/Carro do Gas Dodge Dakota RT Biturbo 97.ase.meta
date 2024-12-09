@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: e9222319198519f43847774b6c02af6b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 0
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 0
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638684950382173324
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: janelas e lanternas
+    originalName: 
+    pivot: {x: 0.8624535, y: -1.5632184}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 557
+      y: 240
+      width: 269
+      height: 174
+    spriteID: 9f6af1ffb4bb1184e91244f0a6434340
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 557, y: 240}
+  - name: em Verde e amarelo
+    originalName: 
+    pivot: {x: 0.49490833, y: -2.1468532}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1010
+      y: 4
+      width: 491
+      height: 143
+    spriteID: bae56ef05cab0234a816b1f3c47442b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1010, y: 4}
+  - name: cores em laranja
+    originalName: 
+    pivot: {x: 0.52008927, y: -6.6862745}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1010
+      y: 155
+      width: 448
+      height: 51
+    spriteID: 2d89b3a12f790f9478e69f76c7a2e569
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1010, y: 155}
+  - name: Cores em cinza
+    originalName: 
+    pivot: {x: 0.48347107, y: -2.3968253}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1509
+      y: 4
+      width: 484
+      height: 126
+    spriteID: 4c807b8505100e94b98cea5056fbc4bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1509, y: 4}
+  - name: Detalhe em branco
+    originalName: 
+    pivot: {x: 0.49797577, y: -0.8684211}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 494
+      height: 228
+    spriteID: 06591861a76912d4ca301cccf1f01f23
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Detalhe em vermelho
+    originalName: 
+    pivot: {x: 0.5152284, y: -3.6091952}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1509
+      y: 138
+      width: 394
+      height: 87
+    spriteID: d8f3dd3e7b4c2134ebefbf0e07ee3c03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1509, y: 138}
+  - name: Sombra
+    originalName: 
+    pivot: {x: 0.48440367, y: -2.5306122}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 240
+      width: 545
+      height: 98
+    spriteID: 8d16e8a307c3a4c4d9b65eb6ba94ae8c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 240}
+  - name: Carro do Gas
+    originalName: 
+    pivot: {x: 0.49596778, y: -1.9801325}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 506
+      y: 4
+      width: 496
+      height: 151
+    spriteID: c757f1c9eba23914e89e5ecde7e8aed2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 506, y: 4}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 1
+    guid: 1205768498
+    name: janelas e lanternas
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: janelas e lanternas
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 368
+        y: 272
+        width: 269
+        height: 174
+      spriteId: 9f6af1ffb4bb1184e91244f0a6434340
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 2
+    guid: -1015137998
+    name: em Verde e amarelo
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: em Verde e amarelo
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 357
+        y: 307
+        width: 491
+        height: 143
+      spriteId: bae56ef05cab0234a816b1f3c47442b3
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 3
+    guid: 22215704
+    name: cores em laranja
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: cores em laranja
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 367
+        y: 341
+        width: 448
+        height: 51
+      spriteId: 2d89b3a12f790f9478e69f76c7a2e569
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 4
+    guid: 137422671
+    name: Cores em cinza
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Cores em cinza
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 366
+        y: 302
+        width: 484
+        height: 126
+      spriteId: 4c807b8505100e94b98cea5056fbc4bd
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 5
+    guid: -267933597
+    name: Detalhe em branco
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Detalhe em branco
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 354
+        y: 198
+        width: 494
+        height: 228
+      spriteId: 06591861a76912d4ca301cccf1f01f23
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 6
+    guid: -326170959
+    name: Detalhe em vermelho
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Detalhe em vermelho
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 397
+        y: 314
+        width: 394
+        height: 87
+      spriteId: d8f3dd3e7b4c2134ebefbf0e07ee3c03
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 7
+    guid: 1936172505
+    name: Sombra
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Sombra
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 336
+        y: 248
+        width: 545
+        height: 98
+      spriteId: 8d16e8a307c3a4c4d9b65eb6ba94ae8c
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 8
+    guid: -370902725
+    name: Carro do Gas
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Carro do Gas
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 354
+        y: 299
+        width: 496
+        height: 151
+      spriteId: c757f1c9eba23914e89e5ecde7e8aed2
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 1200, y: 768}
