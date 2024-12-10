@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ec96e271edca54b428363aac00949003
+guid: deebac6cdffee3d4b98125d342020cf8
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -122,9 +122,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Ford Taurus V6 AWD 2013
+  - name: ChurrosDDeath
     originalName: 
-    pivot: {x: 0.59759843, y: 0.37092465}
+    pivot: {x: 0.52293575, y: -0.048387095}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -132,9 +132,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 489
-      height: 193
-    spriteID: 41c0a5929b308a34fadbc719f95b39c6
+      width: 109
+      height: 62
+    spriteID: 8a68fce64c860fb4e95da594ba08455b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -146,21 +146,21 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 330635809
-    name: Ford Taurus V6 AWD 2013
+    guid: 1799917240
+    name: ChurrosDDeath
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Ford Taurus V6 AWD 2013
+    - name: ChurrosDDeath
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 338
-        y: 296
-        width: 489
-        height: 193
-      spriteId: 41c0a5929b308a34fadbc719f95b39c6
+        x: 7
+        y: 3
+        width: 109
+        height: 62
+      spriteId: 8a68fce64c860fb4e95da594ba08455b
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -179,4 +179,4 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 1200, y: 768}
+  canvasSize: {x: 128, y: 128}
